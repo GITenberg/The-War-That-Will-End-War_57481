@@ -1,0 +1,24 @@
+_repo: The-War-That-Will-End-War_57481
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wells, H. G. (Herbert George)
+    alias: Wells, Herbert George
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '30'
+    url: http://www.gutenberg.org/2009/agents/30
+    wikipedia: http://en.wikipedia.org/wiki/H._G._Wells
+description: ''
+gutenberg_issued: '2018-07-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57481'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The War That Will End War
+url: http://www.gutenberg.org/ebooks/57481
